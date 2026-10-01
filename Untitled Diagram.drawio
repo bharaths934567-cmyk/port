@@ -1,14 +1,11 @@
 <mxfile host="app.diagrams.net">
-  <diagram id="EHYsZQckYFH-nIrm_-C3" name="Page-1">
-    <mxGraphModel dx="465" dy="1303" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+  <diagram name="Page-1" id="kbCl6dNaVLyF1I2AR-Nz">
+    <mxGraphModel dx="860" dy="502" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="tsTNE3AmQbtdKrlRjTO1-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="&lt;h3&gt;&lt;br&gt;&lt;/h3&gt;stalkerware, bulid" vertex="1">
-          <mxGeometry height="80" width="120" x="28" y="-442" as="geometry" />
-        </mxCell>
-        <mxCell id="tsTNE3AmQbtdKrlRjTO1-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="" vertex="1">
-          <mxGeometry height="80" width="120" x="72" y="-274" as="geometry" />
+        <mxCell id="_8yXDWZHdjhxX-QvKXaS-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="230" y="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
